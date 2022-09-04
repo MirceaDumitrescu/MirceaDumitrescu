@@ -24,7 +24,7 @@ I am extremely dedicated and passionate about what i am doing and would love to 
   <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
   <img src ="./images/angular.svg" alt="angular logo" width="4%" title='Angular'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="10%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
@@ -34,9 +34,9 @@ I am extremely dedicated and passionate about what i am doing and would love to 
 
 <div>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
-  <img src ="./images/docker.svg" alt="Docker logo" width="5%" title='Docker'/>
-  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
+  <img src ="./images/docker.svg" alt="Docker logo" width="10%" title='Docker'/>
+  <img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/>
