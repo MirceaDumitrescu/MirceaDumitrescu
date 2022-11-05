@@ -36,13 +36,13 @@ I am extremely dedicated and passionate about what i am doing and would love to 
 <div>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
-  <img src ="./images/docker.svg" alt="Docker logo" width="10%" title='Docker'/>
-  <img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/>
     <img src ="./images/firebase.svg" alt="Firebase logo" width="5%" title='Firebase'/>
     <img src ="./images/jenkins.svg" alt="Jenkins logo" width="5%" title='Jenkins'/>
+  <img src ="./images/docker.svg" alt="Docker logo" width="10%" title='Docker'/>
+  <img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/>
 </div>
 
 ## :mailbox: How to reach me
