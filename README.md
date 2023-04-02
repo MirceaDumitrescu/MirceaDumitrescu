@@ -1,8 +1,8 @@
 # Hi there :wave:
 
-My name is Mircea. I have played with code my entire life but only recently (2020) i have taken this seriously and got a job in the field.
+My name is Mircea. I have played with code my entire life.
 
-I can trully say coding is my passion and my only regret is i have discovered this so late. But never say never and better late than never.
+I can trully say coding is my passio!
 
 I am extremely dedicated and passionate about what i am doing and would love to learn even more, in a dedicated environment with a team formed by people with the same drive i have.
 
