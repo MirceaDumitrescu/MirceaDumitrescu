@@ -2,7 +2,7 @@
 
 My name is Mircea. I have played with code my entire life.
 
-I can trully say coding is my passio!
+I can trully say coding is my passion!
 
 I am extremely dedicated and passionate about what i am doing and would love to learn even more, in a dedicated environment with a team formed by people with the same drive i have.
 
