@@ -7,8 +7,9 @@ I can trully say coding is my passion!
 I am extremely dedicated and passionate about what i am doing and would love to learn even more, in a dedicated environment with a team formed by people with the same drive i have.
 
 ## :mortar_board: My Experience
-- AEM Developer at [Japan Tobacco International](https://www.jti.com/) [Current]
-- Javascript & Angular Trainer for [NewTechAcademy](https://www.newtech.ro/) [Current]
+- Senior AEM Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [Current]
+- IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [Current]
+- AEM Developer at [Japan Tobacco International](https://www.jti.com/) [2023]
 - Frontend Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [2022]
 - Javascript & Haxe Developer at [Playtika](https://www.playtika.com/) [2021]
 ### Used Technologies:
