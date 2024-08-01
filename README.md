@@ -9,7 +9,7 @@ I am extremely dedicated and passionate about what i am doing and would love to 
 ## :mortar_board: My Experience
 - Senior AEM Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [Current]
 - Tech Lead at [SecretCode](https://secretcode.ro) [Current]
-- IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [Current]
+- IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [2024]
 - AEM Developer at [Japan Tobacco International](https://www.jti.com/) [2023]
 - Frontend Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [2022]
 - Javascript & Haxe Developer at [Playtika](https://www.playtika.com/) [2021]
