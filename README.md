@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-My name is Mircea. I have played with code my entire life.
+My name is Gabriel. I have played with code my entire life.
 
 I can trully say coding is my passion!
 
