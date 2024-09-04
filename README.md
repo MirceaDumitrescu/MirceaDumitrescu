@@ -18,6 +18,8 @@ I am extremely dedicated and passionate about what i am doing and would love to 
   <ul>
     <li><a href="https://www.linkedin.com/in/mircea-dumitrescu-8581399a" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 </li>
+     <li><a href="[https://medium.com/@mirceagab](https://medium.com/@mirceagab)" target="_blank">My Medium Articles</a>
+</li>
     <li><a href="https://dumitrescumircea.ro" target="_blank">My Portfolio</a>
 </li>
     <li>Business Email: mirceagab[at]gmail.com</li>
