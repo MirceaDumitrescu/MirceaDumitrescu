@@ -23,6 +23,6 @@ I'm constantly on the lookout to learn new tools and frameworks, and I make it a
 </li>
     <li><a href="https://dumitrescumircea.ro" target="_blank">My Portfolio</a>
 </li>
-    <li>Business Email: mirceagab[at]gmail.com</li>
+    <li>Business Email: gabriel.dumitrescu@enlit.dev</li>
   </ul?
 </div>
