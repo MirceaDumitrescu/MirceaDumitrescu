@@ -1,10 +1,10 @@
 # Hi there :wave:
 
-My name is Gabriel. I have played with code my entire life.
+I am currently an AEM Developer at SecretCode , where I am part of the team responsible for web development projects. My role involves leveraging Adobe Experience Manager, React.js, and other frontend and backend technologies to create and maintain high-quality web applications. With over six years of experience in frontend development, I have had the opportunity to work as a contractor and freelancer for a diverse range of clients and projects.
 
-I can trully say coding is my passion!
+In parallel to my professional work, I also serve as a Frontend Teacher at NewTech Academy. I specialize in imparting knowledge on JavaScript, CSS, HTML, Angular, and Node.js to students enrolled in a FullStack Development course. Teaching enables me to share my passion for web development, helping others to gain practical skills and expand their expertise in the field.
 
-I am extremely dedicated and passionate about what i am doing and would love to learn even more, in a dedicated environment with a team formed by people with the same drive i have.
+I'm constantly on the lookout to learn new tools and frameworks, and I make it a point to stay updated with the latest trends and innovations in IT. My dual roles keep me engaged and fuel my enthusiasm for continuous learning and growth.
 
 ## :mortar_board: My Experience
 - AEM Developer at [SecretCode](https://secretcode.ro) [Current]
