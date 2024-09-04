@@ -10,7 +10,7 @@ I am extremely dedicated and passionate about what i am doing and would love to 
 - AEM Developer at [SecretCode](https://secretcode.ro) [Current]
 - IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [2024]
 - AEM Developer at [Japan Tobacco International](https://www.jti.com/) [2023]
-- Frontend Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [2022]
+- AEM Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [2022]
 - Javascript & Haxe Developer at [Playtika](https://www.playtika.com/) [2021]
 
 ## :mailbox: How to reach me
