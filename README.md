@@ -12,6 +12,7 @@ I'm constantly on the lookout to learn new tools and frameworks, and I make it a
 - AEM Developer at [Japan Tobacco International](https://www.jti.com/) [2023]
 - AEM Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [2022]
 - Javascript & Haxe Developer at [Playtika](https://www.playtika.com/) [2021]
+- Various Frontend Technology Freelancer [2017-2021]
 
 ## :mailbox: How to reach me
 <div>
