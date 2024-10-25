@@ -8,7 +8,7 @@ I'm constantly on the lookout to learn new tools and frameworks, and I make it a
 
 ## :mortar_board: My Experience
 - AEM Developer at [SecretCode](https://secretcode.ro) [Current]
-- IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [2024]
+- IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [2022 - 2024]
 - AEM Developer at [Japan Tobacco International](https://www.jti.com/) [2023]
 - AEM Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [2022]
 - Javascript & Haxe Developer at [Playtika](https://www.playtika.com/) [2021]
