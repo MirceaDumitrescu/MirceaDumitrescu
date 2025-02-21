@@ -1,12 +1,15 @@
 # Hi there :wave:
 
-I am currently an AEM Developer at SecretCode , where I am part of the team responsible for web development projects. My role involves leveraging Adobe Experience Manager, React.js, and other frontend and backend technologies to create and maintain high-quality web applications. With over six years of experience in frontend development, I have had the opportunity to work as a contractor and freelancer for a diverse range of clients and projects.
+I’m currently an AEM Consultant at DHL, where I focus on building and optimizing web applications using Adobe Experience Manager, JavaScript, and frontend technologies. My role involves creating scalable, author-friendly components, improving site performance, and ensuring smooth integrations with backend services.
 
-In parallel to my professional work, I also serve as a Frontend Teacher at NewTech Academy. I specialize in imparting knowledge on JavaScript, CSS, HTML, Angular, and Node.js to students enrolled in a FullStack Development course. Teaching enables me to share my passion for web development, helping others to gain practical skills and expand their expertise in the field.
+Outside of DHL, I run my own venture, SecretCode, where I work as a contractor on various web development projects. Over the years, I’ve had the chance to collaborate with different clients, tackling everything from AEM implementations to full-stack applications using React, Node.js, and more.
 
-I'm constantly on the lookout to learn new tools and frameworks, and I make it a point to stay updated with the latest trends and innovations in IT. My dual roles keep me engaged and fuel my enthusiasm for continuous learning and growth.
+On top of that, I’ve also been a Frontend Instructor at NewTech Academy, where I taught JavaScript, CSS, HTML, Angular, and Node.js to aspiring developers. Teaching has been a great way to share my knowledge while also reinforcing my own skills—because let’s be honest, nothing makes you understand something better than explaining it to others!
+
+I’m always exploring new technologies, refining my skills, and staying on top of industry trends. Whether it’s improving workflows in AEM, optimizing frontend performance, or diving into a new framework, I love the constant learning that comes with being a developer.
 
 ## :mortar_board: My Experience
+- AEM Developer at [DHL.COM](https://dhl.com) [Current]
 - AEM Developer at [SecretCode](https://secretcode.ro) [Current]
 - IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [2022 - 2024]
 - AEM Developer at [Japan Tobacco International](https://www.jti.com/) [2023]
