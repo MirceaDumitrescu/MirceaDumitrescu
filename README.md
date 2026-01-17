@@ -6,16 +6,16 @@ In parallel, I lead SecretCode, my software consulting venture, where I architec
 
 Previously, as a Frontend Instructor at NewTech Academy, I taught JavaScript, HTML, CSS, Angular, and Node.js—mentoring aspiring developers and sharpening my own craft through teaching.
 
-**Core skills and keywords:
-**
+**Core skills and keywords:**
+
 - Adobe Experience Manager (AEM Sites/Assets), Core Components, HTL, Sling Models, OSGi, Dispatcher/CDN tuning
 - Frontend: JavaScript/TypeScript, React, Next.js, Angular, CSS architecture, Web Vitals, Lighthouse, bundle optimization
 - Backend/Platform: Node.js, REST/GraphQL, microservices, authentication, caching, CI/CD (GitHub Actions, Jenkins), Docker, cloud (AWS/Azure)
 - Mobile: React Native
 - Architecture: performance, scalability, accessibility (WCAG), testing (Jest, Playwright), monitoring (OpenTelemetry)
 
-**What I’m good at:
-**
+**What I’m good at:**
+
 - Building reusable, author‑centric AEM components and content models that scale globally
 - Reducing page weight, improving Core Web Vitals, and accelerating build/deploy pipelines
 - Designing APIs and integrations that are resilient, secure, and observable
@@ -23,8 +23,8 @@ Previously, as a Frontend Instructor at NewTech Academy, I taught JavaScript, HT
 
 I’m always open to collaborating on AEM platforms, high‑impact frontend performance work, and product builds across web and mobile.
 
-**If you’re hiring:
-**
+**If you’re hiring:**
+
 - Roles: AEM Engineer/Consultant, Senior Frontend Engineer, Full‑Stack Engineer, Technical Lead
 - Engagements: AEM implementations/migrations, performance audits, component libraries/design systems, full‑stack product delivery
 
