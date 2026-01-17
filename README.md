@@ -1,21 +1,32 @@
 # Hi there :wave:
 
-I’m currently an AEM Consultant at DHL, where I focus on building and optimizing web applications using Adobe Experience Manager, JavaScript, and frontend technologies. My role involves creating scalable, author-friendly components, improving site performance, and ensuring smooth integrations with backend services.
+I’m an AEM Consultant and Full‑Stack Engineer specializing in building high‑performance, author‑friendly digital experiences. At DHL, I design and develop scalable AEM components (Core Components, Sling Models, HTL), optimize site performance, and integrate seamlessly with backend services and APIs. My day‑to‑day includes front‑end engineering with JavaScript/TypeScript, modern CSS, and performance tooling, with a strong focus on accessibility and maintainability.
 
-Outside of DHL, I run my own venture, SecretCode, where I work as a contractor on various web development projects. Over the years, I’ve had the chance to collaborate with different clients, tackling everything from AEM implementations to full-stack applications using React, Node.js, and more.
+In parallel, I lead SecretCode, my software consulting venture, where I architect and ship web and mobile applications end‑to‑end. I’ve delivered AEM implementations, React/Next.js frontends, Node.js/Express/NestJS services, and React Native mobile apps—owning everything from technical discovery and solution design to deployment, CI/CD, and observability. I thrive in fast feedback loops, measurable performance gains, and clear business outcomes.
 
-On top of that, I’ve also been a Frontend Instructor at NewTech Academy, where I taught JavaScript, CSS, HTML, Angular, and Node.js to aspiring developers. Teaching has been a great way to share my knowledge while also reinforcing my own skills—because let’s be honest, nothing makes you understand something better than explaining it to others!
+Previously, as a Frontend Instructor at NewTech Academy, I taught JavaScript, HTML, CSS, Angular, and Node.js—mentoring aspiring developers and sharpening my own craft through teaching.
 
-I’m always exploring new technologies, refining my skills, and staying on top of industry trends. Whether it’s improving workflows in AEM, optimizing frontend performance, or diving into a new framework, I love the constant learning that comes with being a developer.
+**Core skills and keywords:
+**
+- Adobe Experience Manager (AEM Sites/Assets), Core Components, HTL, Sling Models, OSGi, Dispatcher/CDN tuning
+- Frontend: JavaScript/TypeScript, React, Next.js, Angular, CSS architecture, Web Vitals, Lighthouse, bundle optimization
+- Backend/Platform: Node.js, REST/GraphQL, microservices, authentication, caching, CI/CD (GitHub Actions, Jenkins), Docker, cloud (AWS/Azure)
+- Mobile: React Native
+- Architecture: performance, scalability, accessibility (WCAG), testing (Jest, Playwright), monitoring (OpenTelemetry)
 
-## :mortar_board: My Experience
-- AEM Developer at [DHL.COM](https://dhl.com) [Current]
-- AEM Developer at [SecretCode](https://secretcode.ro) [Current]
-- IT Trainer for [NewTechAcademy](https://www.newtech.ro/) [2022 - 2024]
-- AEM Developer at [Japan Tobacco International](https://www.jti.com/) [2023]
-- AEM Developer at [3PillarGlobal](https://www.3pillarglobal.com/) [2022]
-- Javascript & Haxe Developer at [Playtika](https://www.playtika.com/) [2021]
-- Various Frontend Technology Freelancer [2017-2021]
+**What I’m good at:
+**
+- Building reusable, author‑centric AEM components and content models that scale globally
+- Reducing page weight, improving Core Web Vitals, and accelerating build/deploy pipelines
+- Designing APIs and integrations that are resilient, secure, and observable
+- Leading greenfield builds and modernizing legacy frontends without disrupting delivery
+
+I’m always open to collaborating on AEM platforms, high‑impact frontend performance work, and product builds across web and mobile.
+
+**If you’re hiring:
+**
+- Roles: AEM Engineer/Consultant, Senior Frontend Engineer, Full‑Stack Engineer, Technical Lead
+- Engagements: AEM implementations/migrations, performance audits, component libraries/design systems, full‑stack product delivery
 
 ## :mailbox: How to reach me
 <div>
@@ -26,6 +37,6 @@ I’m always exploring new technologies, refining my skills, and staying on top 
 </li>
     <li><a href="https://dumitrescumircea.ro" target="_blank">My Portfolio</a>
 </li>
-    <li>Business Email: gabriel.dumitrescu@enlit.dev</li>
+    <li>Business Email: mirceagab@gmail.com</li>
   </ul?
 </div>
